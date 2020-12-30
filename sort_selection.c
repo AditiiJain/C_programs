@@ -1,10 +1,9 @@
+//Selection sort implementation in C
 #include <stdio.h>
 void selection(int a[], int size);
 int main()
 {
     int a[10], size, i;
-    printf("\nsubmitted by:-Aditi Jain");
-    printf("\nroll no:-1901610100012");
     printf("\nenter size of array:");
     scanf("%d", &size);
     printf("enter array elements:");

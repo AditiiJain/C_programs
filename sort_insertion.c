@@ -1,8 +1,7 @@
+//Insertion sort
 #include<stdio.h>
 int main()
 {
-    printf("\nsubmitted by:-Aditi Jain");
-    printf("\nroll no:-1901610100012");
     int a[10],size,i,temp,j;
     printf("\nenter size of array:");
     scanf("%d", &size);

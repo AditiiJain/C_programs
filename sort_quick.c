@@ -5,8 +5,6 @@ void quicksort (int [], int, int);
  
 int main()
 {
-    printf("\nSUBMITTED BY :- ADITI JAIN");
-    printf("\nROLL NO. :-1901610100012");
     int list[50];
     int size, i;
  

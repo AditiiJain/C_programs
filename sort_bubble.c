@@ -1,11 +1,9 @@
-
+//Bubble sort
 #include<stdio.h>
 int main()
 {   
     int a[10],size,temp;
     printf("\n*****BUBBLE SORT*****");
-    printf("\nName:Aditi Jain");
-    printf("\nRoll no:1901610100012");
     printf("\nenter size of array:");
     scanf("%d",&size);
     printf("enter array elements:");
